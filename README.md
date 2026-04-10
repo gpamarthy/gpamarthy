@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:cc0000&height=180&section=header&text=gpamarthy&fontSize=50&fontColor=e6e6e6&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:cc0000&height=180&section=header&text=UF0&fontSize=60&fontColor=e6e6e6&animation=twinkling&fontAlignY=35&desc=Security%20Engineer&descAlignY=55&descSize=18&descColor=ff4444"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CC0000&center=true&vCenter=true&random=false&width=600&lines=Security+Engineer;I+find+the+attack+paths+your+scanner+missed." alt="Typing SVG" /></a>
