@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:cc0000&height=180&section=header&text=UF0&fontSize=60&fontColor=e6e6e6&animation=twinkling&fontAlignY=35&desc=Security%20Engineer&descAlignY=55&descSize=18&descColor=ff4444"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CC0000&center=true&vCenter=true&random=false&width=600&lines=Security+Engineer;I+find+the+attack+paths+your+scanner+missed." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CC0000&center=true&vCenter=true&random=false&width=600&lines=Security+Engineer;Red+Team+/+DFIR+/+Cloud" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -14,23 +14,21 @@
 
 ---
 
-Red teamer and tool builder. I break into networks and cloud environments, then write Python tools to automate the process. DFIR and threat hunting background — I've worked both sides of the kill chain.
+I do pentesting and red team engagements, then build python tools to automate what I find. Started in DFIR and threat hunting.
 
-**M.Eng Cybersecurity** — University of Maryland, College Park (2025)
+**M.Eng Cybersecurity**, University of Maryland, College Park (2025)
 
 ```
 ├── offensive
-│   ├── active directory exploitation & lateral movement
-│   ├── av/edr evasion research
-│   └── c2 operations & payload development
+│   ├── AD exploitation, kerberoasting, lateral movement
+│   ├── AV/EDR evasion
+│   └── c2 framework setup and operations
 ├── defensive
-│   ├── siem detection engineering (splunk, elk)
-│   ├── incident response & memory forensics
-│   └── threat hunting
+│   ├── detection engineering with splunk and ELK
+│   └── incident response, memory forensics
 └── cloud
-    ├── aws security auditing
-    ├── iam privilege escalation paths
-    └── cloud misconfiguration scanning
+    ├── AWS security auditing
+    └── IAM privesc path discovery
 ```
 
 <p align="center">
