@@ -32,7 +32,6 @@ I do pentesting and red team engagements, then build python tools to automate wh
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gpamarthy&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&text_color=c9d1d9" height="170" />
   <img src="https://streak-stats.demolab.com?user=gpamarthy&theme=blood-dark&hide_border=true&background=0d1117" height="170" />
 </p>
 
