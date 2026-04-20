@@ -51,6 +51,16 @@ I am a Security Engineer specializing in **automated vulnerability research** an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpamarthy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </div>
 
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gpamarthy/gpamarthy/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gpamarthy/gpamarthy/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gpamarthy/gpamarthy/output/github-snake.svg">
+  </picture>
+</div>
+
 ---
 
 <div align="center">
