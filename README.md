@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ef4444&height=200&section=header&text=UF0&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Security%20Engineer%20%7C%20Automated%20Offense%20%26%20Defense&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ef4444&height=200&section=header&text=UF0&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Security%20Engineer%20%7C%20Automated%20Offense%20and%20Defense&descSize=20&descAlignY=60" width="100%" />
 
   <p align="center">
     <kbd>OPERATOR ALIAS: UF0</kbd>
