@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://gpamarthy.github.io"><b>Portfolio</b></a> •
     <a href="https://linkedin.com/in/gpamarthy7"><b>LinkedIn</b></a> •
-    <a href="mailto:gppamarthy@gmail.com"><b>Email</b></a>
+    <a href="mailto:pamarthygp@gmail.com"><b>Email</b></a>
   </p>
 </div>
 
