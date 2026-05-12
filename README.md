@@ -28,9 +28,9 @@ I am a **Security Engineer** (OSEP, CRTE) specializing in full-scope penetration
 ### 🏆 Combat Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OSEP-Experienced_Penetration_Tester-ef4444?style=for-the-badge&logo=offensive-security" alt="OSEP" />
-  <img src="https://img.shields.io/badge/CRTE-Certified_Red_Team_Expert-ef4444?style=for-the-badge&logo=active-directory" alt="CRTE" />
-  <img src="https://img.shields.io/badge/AWS-Security_Specialty-007ACC?style=for-the-badge&logo=amazon-aws" alt="AWS Security" />
+  <img src="https://img.shields.io/badge/OSEP-Experienced_Penetration_Tester-ef4444?style=for-the-badge" alt="OSEP" />
+  <img src="https://img.shields.io/badge/CRTE-Certified_Red_Team_Expert-ef4444?style=for-the-badge" alt="CRTE" />
+  <img src="https://img.shields.io/badge/AWS-Security_Specialty-007ACC?style=for-the-badge" alt="AWS Security" />
   <img src="https://img.shields.io/badge/CompTIA-Security+-FFB900?style=for-the-badge&logo=comptia" alt="Security+" />
 </div>
 
