@@ -58,8 +58,8 @@ I am a **Security Engineer** (OSEP, CRTE) specializing in full-scope penetration
 ### 📊 System Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gpamarthy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpamarthy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <img src="https://gh-readme-stats.vercel.app/api?username=gpamarthy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=gpamarthy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </div>
 
 <br />
