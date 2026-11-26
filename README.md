@@ -17,9 +17,10 @@
 ---
 
 ### 🕹️ Mission Profile
-I am a **Security Engineer** (OSEP, CRTE) specializing in full-scope penetration testing, enterprise infrastructure hardening, and detection engineering. My methodology blends the precision of modern cloud security with the "break and rebuild" mindset of an offensive operator.
+I am a **Malware Reverse Engineer** and Security Engineer (OSEP, CRTE). Day job: taking apart Android malware for Google's App Defense Alliance. Background in full-scope penetration testing, enterprise infrastructure hardening, and detection engineering. My methodology blends the precision of modern cloud security with the "break and rebuild" mindset of an offensive operator.
 
-- 🔭 **Current Campaign:** Head of Security Engineering @ Sports Excitement.
+- 🔭 **Current Campaign:** Malware Reverse Engineer @ Trellix, on the Android App Defense Alliance (ADA) for Google.
+- 🕰️ **Previous Campaign:** Head of Security Engineering @ Sports Excitement (2025 - 2026).
 - 🛠️ **Hacker Arsenal:** Python, C#, Splunk, AWS IAM, networkx, Sliver, structlog.
 - ⚡ **Critical Hit:** Architected zero-trust VPS infrastructure, authored custom AV/EDR evasion payloads, and mapped 1,000+ AWS IAM nodes in seconds using graph analysis.
 
